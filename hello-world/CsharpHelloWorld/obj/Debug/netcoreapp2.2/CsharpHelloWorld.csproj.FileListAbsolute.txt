@@ -1,0 +1,11 @@
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\bin\Debug\netcoreapp2.2\CsharpHelloWorld.deps.json
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\bin\Debug\netcoreapp2.2\CsharpHelloWorld.runtimeconfig.json
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\bin\Debug\netcoreapp2.2\CsharpHelloWorld.runtimeconfig.dev.json
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\bin\Debug\netcoreapp2.2\CsharpHelloWorld.dll
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\bin\Debug\netcoreapp2.2\CsharpHelloWorld.pdb
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\obj\Debug\netcoreapp2.2\CsharpHelloWorld.csprojAssemblyReference.cache
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\obj\Debug\netcoreapp2.2\CsharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\obj\Debug\netcoreapp2.2\CsharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\obj\Debug\netcoreapp2.2\CsharpHelloWorld.AssemblyInfo.cs
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\obj\Debug\netcoreapp2.2\CsharpHelloWorld.dll
+C:\Users\alexandrepeluchi\Documents\repos\asp-net-core-tutorials\hello-world\CsharpHelloWorld\obj\Debug\netcoreapp2.2\CsharpHelloWorld.pdb
