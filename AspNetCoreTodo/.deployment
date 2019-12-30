@@ -1,2 +1,3 @@
 [config]
 project = AspNetCoreTodo/AspNetCoreTodo.csproj
+SCM_SCRIPT_GENERATOR_ARGS=--aspNetCore AspNetCoreTodo\AspNetCoreTodo.csproj
